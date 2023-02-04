@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ThodsaphonSonthiphin
-- 👀 I’m interested in Logging Framework and Security
+- 👀 I’m interested in Logging Framework and real-time web
 - 🌱 I’m currently learning Asp.net and React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ThodsaphonSonthiphin/ThodsaphonSonthiphin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
